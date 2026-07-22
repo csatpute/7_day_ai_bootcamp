@@ -1,0 +1,21 @@
+# ==========================
+# Virtual Environments
+# ==========================
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+
+.env
+
+# ==========================
+# Python Generated Files
+# ==========================
+__pycache__/
+*.pyc
+
+
+# system genrated
+.DS_Store
+Thumbs.db

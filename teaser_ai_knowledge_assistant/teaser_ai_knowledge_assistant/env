@@ -1,0 +1,4 @@
+OLLAMA_CHAT_MODEL=llama3.1
+OLLAMA_EMBEDDING_MODEL=nomic-embed-text
+CHROMA_PATH=data/chroma
+RAG_TOP_K=4
